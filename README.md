@@ -103,3 +103,4 @@ java -jar target/xxx.jar
 
 ### reference links
 [cnblogs springboot step by step ](http://www.cnblogs.com/larryzeal/p/5799195.html#c4)
+[quick start spring boot](http://blog.csdn.net/xiaoyu411502/article/details/47864969)
