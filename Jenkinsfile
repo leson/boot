@@ -1,7 +1,7 @@
 pipeline {
   agent none
   stages {
-    stage('aaa') {
+    stage('fetch source code') {
       steps {
         sh 'echo hello'
       }
